@@ -1,7 +1,7 @@
 let monthOfBirth = prompt(" Enter month of birth. ");
 let yearOfBirth = prompt(" Enter year of birth. ");
-let currentYear =  new Date().getFullYear();
-let currentMonth = new Date().getMonth();
+let currentYear =  new Date().getFullYear()
+let currentMonth = new Date().getMonth() + 1
 
 
 
